@@ -7,3 +7,5 @@ mysql
 spring
 mybatis
 maven
+svn
+git
