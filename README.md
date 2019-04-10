@@ -1,4 +1,4 @@
-# javaee_study
+﻿# javaee_study
 javaee学习
 java
 servlet/jsp
@@ -9,3 +9,5 @@ mybatis
 maven
 svn
 git
+hibernate
+
